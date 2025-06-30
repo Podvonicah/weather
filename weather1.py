@@ -1,6 +1,6 @@
 import requests
+from config import api_key
 
-api_key = "13b1830543de496493b16d2ecf69f283"
 lat1, lon1 = -39.610411497009196, -54.48267357289278
 lat2, lon2 = -61.53254, -38.53225
 lat3, lon3 = -83.2537125,  -44.2763782
